@@ -3,10 +3,10 @@
   <img src="https://user-images.githubusercontent.com/50468352/141820811-412e9364-7f5c-4889-826a-fcba23b92e23.png" width="350" alt="Logo do Projeto" />
 </p>
 
-<h3 align="center">📌 Projeto Integrador em Computação II - 2025</h3>
+<h3 align="center">📌 Projeto Integrador em Computação III - 2026</h3>
 
 <p align="center"><strong>Polo:</strong> DRP04</p>
-<p align="center"><strong>Orientador do PI:</strong> Marcio de Oliveira Santiago Filho</p>
+<p align="center"><strong>Orientadora do PI:</strong> Melissa Pereira Guzella</p>
 
 ---
 
@@ -14,14 +14,13 @@
 
 | Nome                              | RA         |
 |-----------------------------------|------------|
+| Ademarcio Olavo Osco              |  2104424   |
 | Alexandre dos Reis                | 23215840   |
 | André Perantoni Guigen            | 23207477   |
 | Eliton Mauro Nachbar              | 23207355   |
 | Feliphe Gomes Tebalde             | 23209995   |
 | Flavio Jorge de Medeiros          | 23205233   |
 | Gustavo Nunes Melo                | 23227579   |
-| João Felipe B. Brandão            | 23201444   |
-| Vinicius Santiago Ramos           | 23205584   |
 
 
 ---
@@ -73,7 +72,7 @@ O ambiente de Azure, foi criado com os seguintes componentes para que a aplicaç
 <br/>
 
 ✅ **Clonar o projeto para a máquina local:**  
-<code>git clone https://github.com/flavio-univesp/projeto_integrador2_IaaS_Azure</code>
+<code>git clone https://github.com/flavio-univesp/projeto_integrador3_IaaS_Azure</code>
 
 ✅ **Entendimento do Codigo**  
 
